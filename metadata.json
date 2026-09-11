@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix SmartProcure",
+  "description": "National Agricultural Procurement Portal: Smart procurement slot booking, dynamic queue management, electronic weighment, and transparent direct benefit transfer (DBT) payments for Department of Consumer Affairs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
